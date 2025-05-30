@@ -1,0 +1,4 @@
+pandas==2.1.4
+numpy==1.24.3
+sqlite3  # 內建模組
+pathlib  # 內建模組 
